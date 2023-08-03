@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "898953957026",
+    "project_id": "restoria-8a1ea",
+    "storage_bucket": "restoria-8a1ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898953957026:android:310de2adaf8ecc7b98d1fb",
+        "android_client_info": {
+          "package_name": "com.example.resotria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898953957026-umrkn3kg3dn0up6hbdbq92cm5s49ag65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJK-SOD5_A-NtjmRMvKWQbvj5gNoyYBv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898953957026-umrkn3kg3dn0up6hbdbq92cm5s49ag65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
